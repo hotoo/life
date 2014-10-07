@@ -1,12 +1,15 @@
 
 # [@hotoo](http://hotoo.me/)'s life
 
+- age: show
+- memtion: https://github.com/{@memtion}
+
 ----
 
 - 1983 出生于[江西省瑞昌市](http://baike.baidu.com/subview/15120/5666887.htm)
 - 2012/04~2012/07 小型车驾驶执照(C1)。
 - 2012/11/04 被出租车撞伤于杭州万塘路塘苗路口。
-- 2013/05/07~ 遇见[乔花@lizzie](http://sunsetsunrising.com/)
+- 2013/05/07~ 遇见[乔花](http://sunsetsunrising.com/) (@lizzie)
   - 2014-09-30 领证了
 
 ## 教育
