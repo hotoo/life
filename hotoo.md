@@ -2,7 +2,7 @@
 # [@hotoo](http://hotoo.me/)'s life
 
 - age: show
-- memtion: https://github.com/{@memtion}
+- mention: https://github.com/{@mention}
 
 ----
 
