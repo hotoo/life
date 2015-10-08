@@ -1,6 +1,6 @@
 
-watch:
-	@markline server --watch hotoo.md
+server:
+	@markline server hotoo.md
 
 build: clean
 	@markline build hotoo.md
