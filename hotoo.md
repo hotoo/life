@@ -51,7 +51,7 @@
 - 2011/02~2014/09/12 支付宝公司配备的 27 寸 iMac
 - 2014/09/12~2018-05-09 支付宝公司配备的 15 寸 Retina Macbook Pro
 - 2018-05-09~ 支付宝公司配备的 13 寸 Macbook Pro [MPXT2CH](https://www.apple.com/cn/shop/buy-mac/macbook-pro/MPXT2CH/A#) 2.5GHz 双核第七代 Intel Core i7, 16GB 内存
-- 2019-06-05 27 寸 5K 显示屏 iMac [MRR12CH](https://www.apple.com/cn/shop/buy-mac/imac/MRR12CH/A#), 3.6GHz 八核第九代 Intel Core i9, 16GB 2666MHz DDR4 内存 (￥19119 苹果员工内部价）
+- 2019-06-05~ 27 寸 5K 显示屏 iMac [MRR12CH](https://www.apple.com/cn/shop/buy-mac/imac/MRR12CH/A#), 3.6GHz 八核第九代 Intel Core i9, 16GB 2666MHz DDR4 内存 (￥19119 苹果员工内部价）
 - 2011/01/14~2013/06/19 Kindle DXG (3,699.00) - 屏幕摔碎。
 - 2013/07/03~2014 iPad mini 给老爸老妈 (1,900.00)，屏幕碎了，修好后送给冯健女儿。
 - 2014/01/10~2015/06 iPad mini 2 with Retina (2,668.00)，送给乔花老爸。
