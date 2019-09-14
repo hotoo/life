@@ -57,7 +57,8 @@
 - 2014/01/10~2015/06 iPad mini 2 with Retina (2,668.00)，送给乔花老爸。
 - 2015/06/03~ iPad mini 2 with Retina, WLAN + Cellular A1490 128G, 黑色 (2750.00)
 - 2015/06/05~2019-08-30 IKBC POKER II 机械键盘（阿里巴巴集团开源星人最活跃个人奖），后来针脚断了。
-- 2019-09-10~ [RK61](https://www.rkgaming.com/) 白色（冰蓝）蓝牙双模 Cherry 青轴 ￥254.00
+- 2019-09-10~ [RK61](https://www.rkgaming.com/) 白色（冰蓝）蓝牙双模 Cherry 青轴，单色灯也很炫酷，被乔花抢走了。 ￥254.00
+- 2019-09-14~ [RK61](https://www.rkgaming.com/) 黑色（暗金）蓝牙双模 Cherry 青轴 ￥254.00
 - 2019-01-25~ [Beats Solo3 Wireless 头戴式耳机](https://www.apple.com/cn/shop/product/MV8T2PA/A) - Beats Club Collection – 学院红 团队年会头奖
 
 ## 爱好 & 其他
