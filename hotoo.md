@@ -62,6 +62,7 @@
 - 2019-09-10~ [RK61](https://www.rkgaming.com/) 白色（冰蓝）蓝牙双模 Cherry 青轴，单色灯也很炫酷，被乔花抢走了。 ￥254.00
 - 2019-09-14~ [RK61](https://www.rkgaming.com/) 黑色（暗金）蓝牙双模 Cherry 青轴 ￥254.00 键帽没多久就磨出油光，而且不时会自动重复击键。
 - 2019-12-18~ [ikbc C104](http://www.ikbc.com.cn/prod_view.aspx?TypeId=27&Id=198&FId=t3:27:3) 白色茶轴 二手￥160.00
+- 2020-03-24 新款 ikbc poker 2 黑轴，咸鱼全新二手 ￥350.00
 - 2019-01-25~ [Beats Solo3 Wireless 头戴式耳机](https://www.apple.com/cn/shop/product/MV8T2PA/A) - Beats Club Collection – 学院红 团队年会头奖
 
 ## 爱好 & 其他
