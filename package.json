@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "server": "markline server ./hotoo.md",
+    "start": "markline server ./hotoo.md",
     "prebuild": "rm -rf dist",
     "build": "markline build ./hotoo.md",
     "prepublishOnly": "echo 'Please use `make publish` instead.' && exit 1",
