@@ -1,13 +1,12 @@
 
+start:
+	@npm start
 server:
-	@markline server hotoo.md
+	@npm start
 
-build: clean
-	@markline build hotoo.md
+build:
+	@npm run build
 
 publish: build
 	@ghp-import dist
 	@git push origin gh-pages
-
-clean:
-	@rm -rf dist

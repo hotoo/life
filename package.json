@@ -1,0 +1,32 @@
+{
+  "name": "life",
+  "version": "1.0.0",
+  "description": "XianYun's Life",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "server": "markline server ./hotoo.md",
+    "prebuild": "rm -rf dist",
+    "build": "markline build ./hotoo.md",
+    "prepublishOnly": "echo 'Please use `make publish` instead.' && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotoo/life.git"
+  },
+  "keywords": [
+    "Life",
+    "Markline"
+  ],
+  "author": "闲耘 <hotoo.cn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hotoo/life/issues"
+  },
+  "homepage": "https://github.com/hotoo/life#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "markline": "^0.7.0"
+  }
+}
