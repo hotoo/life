@@ -65,7 +65,7 @@
 - 2020-03-24~ 新款 ikbc poker 2 黑轴，咸鱼全新二手 ￥350.00
 - 2019-01-25~ [Beats Solo3 Wireless 头戴式耳机](https://www.apple.com.cn/shop/product/MX452PA/A) [1](https://www.apple.com/cn/shop/product/MV8T2PA/A) - Beats Club Collection – 学院红 团队年会头奖
 - 2020-03-20~ Apple AirPods Pro 全新二手 ￥1700.00
-- 2021-10-05 [小米米家液晶小黑板](https://www.mi.com/buy/detail?product_id=10550) 20 英寸 ￥119.00
+- 2021-10-05~ [小米米家液晶小黑板](https://www.mi.com/buy/detail?product_id=10550) 20 英寸 ￥119.00
 
 ## 爱好 & 其他
 
