@@ -5,10 +5,10 @@
 
 ----
 
-- 1983 出生于[江西省瑞昌市](http://baike.baidu.com/subview/15120/5666887.htm)
+- 1983 出生于 [江西省瑞昌市](http://baike.baidu.com/subview/15120/5666887.htm)
 - 2012/04~2012/07 小型车驾驶执照 (C1)。
 - 2012/11/04 被出租车撞伤于杭州万塘路塘苗路口。
-- 2013/05/07~ 遇见[乔花](http://sunsetsunrising.com/) (@lizzie)
+- 2013/05/07~ 遇见 [乔花](http://sunsetsunrising.com/) (@lizzie)
   - 2014-09-30 领证了
   - 2014-11-02 乔花老家婚礼（农历闰九月初十）
   - 2015-02-24 老家婚礼（农历正月初六）
@@ -22,7 +22,7 @@
 - 1998/09~2000/06 横港高中
 - 2000/09~2001/06 南义高中（横港高中迁校）
 - 2001/09~2002/06 瑞昌二中
-- 2002/09~2005/06 安阳大学（现[安阳工学院](http://www.ayit.edu.cn/) ），计算机应用专业
+- 2002/09~2005/06 安阳大学（现 [安阳工学院](http://www.ayit.edu.cn/) ），计算机应用专业
 
 ## 工作
 
@@ -65,6 +65,7 @@
 - 2020-03-24~ 新款 ikbc poker 2 黑轴，咸鱼全新二手 ￥350.00
 - 2019-01-25~ [Beats Solo3 Wireless 头戴式耳机](https://www.apple.com.cn/shop/product/MX452PA/A) [1](https://www.apple.com/cn/shop/product/MV8T2PA/A) - Beats Club Collection – 学院红 团队年会头奖
 - 2020-03-20~ Apple AirPods Pro 全新二手 ￥1700.00
+- 2021-10-05 [小米米家液晶小黑板](https://www.mi.com/buy/detail?product_id=10550) 20 英寸 ￥119.00
 
 ## 爱好 & 其他
 
