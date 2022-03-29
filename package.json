@@ -25,7 +25,9 @@
     "url": "https://github.com/hotoo/life/issues"
   },
   "homepage": "https://github.com/hotoo/life#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
   "dependencies": {
     "markline": "^0.7.0"
   }
