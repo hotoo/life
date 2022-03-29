@@ -1,4 +1,4 @@
-# [@hotoo](http://hotoo.me/)'s life
+# [@hotoo](https://hotoo.github.io/)'s life
 
 - age: show
 - mention: https://github.com/{@mention}
