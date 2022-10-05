@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm ci
+      - run: npm install
 
   publish-gpr:
     needs: build
@@ -35,7 +35,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-      - run: npm ci
+      - run: npm install
       - run: npm run publish-gh-pages
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
