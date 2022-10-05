@@ -33,10 +33,11 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
           node-version: 16
           registry-url: https://npm.pkg.github.com/
       - run: npm install
+      - run: git config --global user.email "hotoo.cn@gmail.com"
+      - run: git config --global user.name "闲耘"
       - run: npm run publish-gh-pages
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
