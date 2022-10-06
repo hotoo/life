@@ -37,7 +37,7 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - run: npm install
       - run: git config --global user.email "hotoo.cn@gmail.com"
-      - run: git config --global user.name "闲耘"
+      - run: git config --global user.name "hotoo"
       - run: npm run publish-gh-pages
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
