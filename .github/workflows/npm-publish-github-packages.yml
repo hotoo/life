@@ -14,7 +14,7 @@ on:
     types: [created]
 
 jobs:
-  publish-gpr:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -26,9 +26,20 @@ jobs:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
       - run: npm install
-      - run: git config --global user.email "hotoo.cn@gmail.com"
-      - run: git config --global user.name "hotoo"
-      - run: git remote set-url origin git@github.com:hotoo/life.git
-      - run: npm run publish-gh-pages
+      - run: npm run build
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+
