@@ -42,11 +42,17 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v2
       - run: npm install
       - run: npm run build
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - run: mv dist _site
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v1
           
 
   # Deployment job
