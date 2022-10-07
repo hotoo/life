@@ -46,6 +46,7 @@ jobs:
       - run: npm run build
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - run: mv dist _site
           
 
   # Deployment job
