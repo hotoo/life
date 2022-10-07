@@ -28,7 +28,7 @@ jobs:
       - run: npm install
       - run: git config --global user.email "hotoo.cn@gmail.com"
       - run: git config --global user.name "hotoo"
-      - run: git config set-url origin git@github.com:hotoo/life.git
+      - run: git remote set-url origin git@github.com:hotoo/life.git
       - run: npm run publish-gh-pages
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
