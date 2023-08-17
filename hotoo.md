@@ -46,7 +46,7 @@
   - 2018~ 给我老妈用了
 - 2016/12/28~ iPhone 7 Plus 128G 银色 7188.00/18
   - 2019~ 自己用了公司的测试机 iPhone X，这个给岳母用了。
-- 2018/08/11~ iPhone X 256G 银色 11404.00/12 （含 AirPods，Belkin Boost Up Wireless Charging Pad 特别版）送老婆
+- 2018/08/11~2023-07 iPhone X 256G 银色 11404.00/12 （含 AirPods，Belkin Boost Up Wireless Charging Pad 特别版）送老婆。屏幕碎多次电池换多次后老化。
 - 2022-03-23~ iPhone 13 Pro Max 128G 金色，阿里同事 2022-02-14 买的新机，原价 ￥8999，二手 ￥8500 收。
 - 2023/07/12~ iPhone 14 Pro 256GB 暗紫色 ￥8899 给老婆用。
 - 2003/10~2005/06 第一台 PC 组装电脑
